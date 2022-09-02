@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bewithraviii
+- 👋 Hi, I’m Ravi Patel
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack
 - 💞️ I’m looking to collaborate on project related frontend
