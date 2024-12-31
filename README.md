@@ -1,5 +1,5 @@
 -  Hello, I’m Ravi Patel
--  I’m a Trainee Software Developer @TatvaSoft,
--  I’m currently learning Full Stack,
+-  I’m a Associate Software Developer @TatvaSoft,
+-  I’m currently working as a Full Stack developer,
 -  I’m looking to collaborate on project related FullStack Devops,
 -  How to reach me ravipateljigneshpatel137@gmail.com.
