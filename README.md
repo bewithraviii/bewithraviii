@@ -1,5 +1,5 @@
 -  Hello, I’m Ravi Patel
--  I’m a Associate Software Developer @TatvaSoft,
--  I’m currently working as a Full Stack developer,
--  I’m looking to collaborate on project related FullStack Devops,
--  How to reach me ravipateljigneshpatel137@gmail.com.
+-  Associate Software Developer @TatvaSoft
+-  Currently working as a Full Stack developer specializing in the MEAN stack
+-  Keen to collaborate on a FullStack DevOps project
+-  How to reach me ravipateljigneshpatel137@gmail.com
